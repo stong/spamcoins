@@ -1,5 +1,67 @@
 # List of cryptocurrency projects to avoid
 
-Whenever some shitty new cryptocurrency scamcoin has the misfortune of showing up in my Twitter notifications because they spammed me, guess what, you get to go to the graveyard (this document).
+Whenever some new cryptocurrency scam coin has the misfortune of showing up in my Twitter notifications because their marketing agency spammed me, guess what, they get to go to the graveyard (this document).
 
-**Contributions welcome. Please make the pull request**
+To crypto spammers: **Stop mentioning me. I'm not going to interact or give you engagement. I'm just going to report the account so it gets banned, increasing the cost of your campaign.** And also, I won't even backlink your site in this repo. You don't deserve the SEO. Go wallow and die on the 10th page of search results.
+
+**Contributions welcome. Please make pull request.**
+
+## DigiByte, "Airdrop Rampage"
+
+Twitter account: @AirdropRampage
+
+![./assets/digibyte.png](./assets/digibyte.png)
+
+Tweet: [link](https://twitter.com/Igor89427467/status/1497846611086508032)
+
+## GameFi
+
+Twitter account: @Gamefi_club @placewar_game
+
+![./assets/digibyte.png](./assets/gamefi.png)
+
+Tweet: [link](https://twitter.com/weihong46133390/status/1497126482694803456)
+
+## Sekira NFT
+
+Twitter account: @Gshinsekaicorp @Sekira_NFT
+
+![./assets/sekira.png](./assets/sekira.png)
+
+Tweet: [link](https://twitter.com/alex0x_sasha/status/1495787401540681728)
+
+## Rebels by Night
+
+Twitter account: @rebelsbynight
+
+![./assets/digibyte.png](./assets/rebels.png)
+
+Tweet: [link](https://twitter.com/Christi33496366/status/1494326669842153483)
+
+## Haki NFT x Mono Locco
+
+Twitter account: @HakiNFT @MonoLocco_
+
+![./assets/haki.png](./assets/haki.png)
+
+Tweet: [link](https://twitter.com/SandraG55259053/status/1494306154478030849)
+
+## Tsuki NFT
+
+Twitter account: @TsukiNFT
+
+![./assets/tsuki.png](./assets/tsuki.png)
+
+Tweet: [link](https://twitter.com/MindyBu00586703/status/1492318027836178434)
+
+
+![./assets/tsuki.png](./assets/tsuki2.png)
+
+Tweet: [link](https://twitter.com/SarahMo63657531/status/1492118061972922371)
+
+## Miscellaneous insane shit
+
+
+![./assets/digibyte.png](./assets/wtf1.png)
+
+Tweet: [link](https://twitter.com/BTC___BaY___/status/1497319515625082894)
