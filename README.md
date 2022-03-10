@@ -6,6 +6,18 @@ To crypto spammers: **Stop mentioning me. I'm not going to interact or give you 
 
 **Contributions welcome. Please make pull request.**
 
+## Prysm Squads NFT
+
+![./assets/prysm.png](./assets/prysm.png)
+
+[Tweet](https://twitter.com/elaner111/status/1501834725358731266)
+
+## Rare Bears, Zooverse NFT
+
+![./assets/bears.png](./assets/bears.png)
+
+[Tweet](https://twitter.com/Hayley62520806/status/1501254309391978498)
+
 ## DigiByte, "Airdrop Rampage"
 
 Twitter account: @AirdropRampage
