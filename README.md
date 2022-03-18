@@ -6,6 +6,12 @@ To crypto spammers: **Stop mentioning me. I'm not going to interact or give you 
 
 **Contributions welcome. Please make pull request.**
 
+## HKUN NFT
+
+![./assets/hkun.png](./assets/hkun.png)
+
+[Tweet](https://twitter.com/alberto_ooh/status/1504617048327876608)
+
 ## Prysm Squads NFT
 
 ![./assets/prysm.png](./assets/prysm.png)
