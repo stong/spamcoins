@@ -6,6 +6,14 @@ To crypto spammers: **Stop mentioning me. I'm not going to interact or give you 
 
 **Contributions welcome. Please make pull request.**
 
+## Avarik Saga x PaperHands
+
+![./assets/avariksaga.png](./assets/avariksaga.png)
+
+![./assets/fuck.png](./assets/fuck.png)
+
+[Tweet](https://twitter.com/Cris15125871/status/1505283941539921922)
+
 ## HKUN NFT
 
 ![./assets/hkun.png](./assets/hkun.png)
